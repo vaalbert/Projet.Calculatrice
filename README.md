@@ -1,6 +1,6 @@
 # Projet.Calculatrice
 
-Computer Programmin - Pawel Rubach
+Computer Programming - Pawel Rubach
 SGH - Warsaw School of Economics
 Spring Semester 2017
 
